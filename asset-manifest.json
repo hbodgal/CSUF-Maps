@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CSUF-Maps/static/css/main.1ac7b15f.css",
-    "main.js": "/CSUF-Maps/static/js/main.8ff19b9d.js",
+    "main.js": "/CSUF-Maps/static/js/main.6ceac211.js",
     "static/js/453.a70c3257.chunk.js": "/CSUF-Maps/static/js/453.a70c3257.chunk.js",
     "service-worker.js": "/CSUF-Maps/service-worker.js",
     "index.html": "/CSUF-Maps/index.html",
     "main.1ac7b15f.css.map": "/CSUF-Maps/static/css/main.1ac7b15f.css.map",
-    "main.8ff19b9d.js.map": "/CSUF-Maps/static/js/main.8ff19b9d.js.map",
+    "main.6ceac211.js.map": "/CSUF-Maps/static/js/main.6ceac211.js.map",
     "453.a70c3257.chunk.js.map": "/CSUF-Maps/static/js/453.a70c3257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac7b15f.css",
-    "static/js/main.8ff19b9d.js"
+    "static/js/main.6ceac211.js"
   ]
 }
